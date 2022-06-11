@@ -9,12 +9,14 @@ discord: @iglad55
 # About me
 Manual software testing specialist with experience of working in a distributed team.
 ****
-# Skills
+# Skills & Tools
 Skill|Level
 ----|----
 Manual testing | Experienced
 SQL | Basic
 JAVA | Basic
+Git, Github | Basic
+HTML5, CSS3 | Basic
 ****
 # Examples of code
 ```
